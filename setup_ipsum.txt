@@ -1,0 +1,1 @@
+This placeholder file satisfies pkg_resources when running in the frozen bundle.
